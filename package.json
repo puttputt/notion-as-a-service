@@ -1,6 +1,6 @@
 {
   "name": "notion-as-a-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A scraper that scrapes public Notion.so pages and converts them to JSON",
   "main": "index.js",
   "repository": {
