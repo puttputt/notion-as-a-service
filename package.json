@@ -1,0 +1,24 @@
+{
+  "name": "notion-as-a-service",
+  "version": "1.0.0",
+  "description": "A scraper that scrapes public Notion.so pages and converts them to JSON",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:puttputt/notion-as-a-service.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notion",
+    "node",
+    "json"
+  ],
+  "author": "puttputt",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^1.1.15",
+    "puppeteer": "^1.14.0"
+  }
+}
